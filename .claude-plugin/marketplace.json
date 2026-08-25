@@ -4013,6 +4013,88 @@
         "sha": "8b2d640fe82fadcb69c12af26e4e38ab8ab61ed1"
       },
       "homepage": "https://www.zyte.com"
+    },
+    {
+      "name": "quickstart",
+      "description": "Cloud Infra2 部署環境資訊 Skills：.223、.81、.83/.93、moda、ncsist-stag、office、orbstack",
+      "author": {
+        "name": "Louis Jeng"
+      },
+      "category": "deployment",
+      "source": {
+        "source": "url",
+        "url": "http://10.78.26.44:30000/louis_jeng/quickstart.git",
+        "sha": "a38bde96ebfaa1c993e4e834411bf28378959f6d"
+      }
+    },
+    {
+      "name": "work-journal",
+      "description": "個人工作日誌報告產出流程：日報、週報、工作日誌",
+      "author": {
+        "name": "Louis Jeng"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "http://10.78.26.44:30000/louis_jeng/work-journal.git",
+        "sha": "65ad1ceaf61d97b92602af9cef7cbfbceeeb821b"
+      }
+    },
+    {
+      "name": "context-mode",
+      "description": "MCP server that saves context window with session continuity. Sandboxed code execution in 11 languages, FTS5 knowledge base with BM25 ranking, and automatic state restore across compactions.",
+      "author": {
+        "name": "Louis Jeng"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/louisje/context-mode.git",
+        "sha": "7b88b769cb6ee90f9f10bdd6e68668f052c0c024"
+      },
+      "homepage": "https://github.com/louisje/context-mode"
+    },
+    {
+      "name": "ponytail",
+      "description": "Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions.",
+      "author": {
+        "name": "Dietrich Gebert"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/DietrichGebert/ponytail.git",
+        "sha": "2ed6c52c9d7e5e56942508591085fd45dea277d3"
+      },
+      "homepage": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "name": "i-have-adhd",
+      "description": "Shape Claude Code output for an ADHD reader: lead with the next action, number steps, suppress tangents, restate state, make wins visible.",
+      "author": {
+        "name": "Ayoub G."
+      },
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ayghri/i-have-adhd.git",
+        "sha": "e7555fcaf612dfa1739dc86610ea926a906db614"
+      },
+      "homepage": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "name": "terminal-mcp",
+      "description": "Headless PTY-backed terminal exposed over MCP — lets Claude type into, watch, and drive the user's real shell for sudo prompts, SSH logins, TUI programs, and commands the user wants to observe live.",
+      "author": {
+        "name": "Louis Jeng"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/louisje/terminal-mcp.git",
+        "sha": "63b9936cc248461a56c3ebfdb86b3496eabd38e6"
+      },
+      "homepage": "https://github.com/louisje/terminal-mcp"
     }
   ]
 }
