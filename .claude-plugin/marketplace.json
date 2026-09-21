@@ -26,9 +26,8 @@
       },
       "category": "security",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/42Crunch-AI/claude-plugins.git",
-        "path": "plugins/api-security-testing",
         "ref": "v1.5.5",
         "sha": "30287f5e3f122a646d1ac5ca3ab96e130c52a3ad"
       },
@@ -42,9 +41,8 @@
       },
       "category": "design",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/adobe/skills.git",
-        "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
         "sha": "304aa23dfd84aeb7b005816962d1bfb40d27750a"
       },
@@ -100,9 +98,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/Airtable/skills.git",
-        "path": "plugins/airtable",
         "ref": "main",
         "sha": "812ee67f1fd3d76fb45ff8df40afaa0448602ba8"
       },
@@ -116,9 +113,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/airwallex/airwallex-marketplace.git",
-        "path": "plugins/airwallex-agentos",
         "ref": "master",
         "sha": "d323dd68c85874f6311a1bd20184f803a96e09a9"
       },
@@ -132,9 +128,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/airwallex/airwallex-marketplace.git",
-        "path": "plugins/airwallex-dev",
         "ref": "master",
         "sha": "d4593e33a9e1177a44b895ca0a1d6e015215736f"
       },
@@ -190,9 +185,8 @@
       },
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/AltimateAI/altimate-claude-plugin.git",
-        "path": "plugins/altimate-code",
         "ref": "main",
         "sha": "b7c8f68b3dfd303ab3ccf2f43934098811dfe2aa"
       },
@@ -203,9 +197,8 @@
       "description": "Guide developers through adding maps, places search, geocoding, routing, and other geospatial features with Amazon Location Service, including authentication setup, SDK integration, and best practices.",
       "category": "location",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/agent-plugins.git",
-        "path": "plugins/amazon-location-service",
         "ref": "main",
         "sha": "9898ddc4dcf7dd23ddb939cec1b905311dc7381d"
       },
@@ -219,9 +212,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/amd/skills.git",
-        "path": "skills",
         "ref": "main",
         "sha": "6916fb371d1cba40757b223cf16b4cd4912b202f"
       },
@@ -237,9 +229,8 @@
     {
       "name": "amplitude",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/amplitude/mcp-marketplace.git",
-        "path": "plugins/amplitude",
         "ref": "main",
         "sha": "96fc7d4c58bb33b4e60c334d34ad944c8a246869"
       },
@@ -366,9 +357,8 @@
       },
       "category": "security",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/auth0/agent-skills.git",
-        "path": "plugins/auth0",
         "ref": "main",
         "sha": "f135610540ea41e4d99882dc1f06162030c7340b"
       },
@@ -382,9 +372,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-        "path": "plugins/aws-agents",
         "ref": "main",
         "sha": "57ce9edb2126292efaf5298801e226e1ef661a4a"
       },
@@ -398,9 +387,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-        "path": "plugins/aws-agents-for-devsecops",
         "ref": "main",
         "sha": "68d9e8541c45afd2510662bcea69fe1e433ea9db"
       },
@@ -411,9 +399,8 @@
       "description": "Build full-stack apps with AWS Amplify Gen 2 using guided workflows for authentication, data models, storage, GraphQL APIs, and Lambda functions.",
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/agent-plugins.git",
-        "path": "plugins/aws-amplify",
         "ref": "main",
         "sha": "c65ee436b0db77bb75d380aef6fbdc9b114edf2a"
       },
@@ -427,9 +414,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-        "path": "plugins/aws-core",
         "ref": "main",
         "sha": "7fcb1da17abba610d7becc973c2141b40412e02c"
       },
@@ -443,9 +429,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-        "path": "plugins/aws-data-analytics",
         "ref": "main",
         "sha": "08ad220e4e9bbc498821ce9360b3dcdf4813121d"
       },
@@ -456,9 +441,8 @@
       "description": "Design, build, deploy, test, and debug serverless applications with AWS Serverless services.",
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/agent-plugins.git",
-        "path": "plugins/aws-serverless",
         "ref": "main",
         "sha": "34afdf5005325f17d5da2d1443b87f27a53b0a20"
       },
@@ -472,9 +456,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/startups.git",
-        "path": "advisor/plugins/aws-startup-advisor",
         "ref": "main",
         "sha": "dd7096bd634649bc89b6511d61cff16f58623284"
       },
@@ -488,9 +471,8 @@
       },
       "category": "migration",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/agent-plugins.git",
-        "path": "plugins/aws-transform",
         "ref": "main",
         "sha": "adc01133bbd01433dcb2c0f98641f2b85694f92f"
       },
@@ -551,9 +533,8 @@
       },
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/Bigdata-com/bigdata-plugins-marketplace.git",
-        "path": "plugins/bigdata-com",
         "ref": "main",
         "sha": "2a52a001366227e205cfa7565d78e8198dc42fa8"
       },
@@ -581,9 +562,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/boltz-bio/boltz-api-skills.git",
-        "path": "plugins/boltz",
         "ref": "main",
         "sha": "beafb3c16236347ab10fb54f78a5da49cbf7c7bb"
       },
@@ -639,9 +619,8 @@
       },
       "category": "automation",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/browser-use/plugins.git",
-        "path": "browser-use",
         "ref": "main",
         "sha": "a25f0a262928bcbb62071432636d943ed9f2b6aa"
       },
@@ -669,9 +648,8 @@
       },
       "category": "design",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/canva-sdks/canva-skills.git",
-        "path": "plugins/canva",
         "ref": "main",
         "sha": "b56291ea0a36d0a941e1478b47959be5f1771dee"
       },
@@ -699,9 +677,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/carta/plugins.git",
-        "path": "plugins/carta-cap-table",
         "ref": "main",
         "sha": "12bb447e186f52c20aee6588761498f2acf76fc3"
       },
@@ -715,9 +692,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/carta/plugins.git",
-        "path": "plugins/carta-crm",
         "ref": "main",
         "sha": "81b8f40844bd646842538a4583409f9aa54c42db"
       },
@@ -731,9 +707,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/carta/plugins.git",
-        "path": "plugins/carta-investors",
         "ref": "main",
         "sha": "12bb447e186f52c20aee6588761498f2acf76fc3"
       },
@@ -816,9 +791,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/circlefin/skills.git",
-        "path": "plugins/circle",
         "ref": "master",
         "sha": "58ab8648bb1ae9d037a3bf5197ad3bb01262f5b1"
       },
@@ -921,9 +895,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/clay-run/agent-plugins.git",
-        "path": "clay",
         "ref": "main",
         "sha": "86f0471654c2c855ad0346cd30a74c0f4ca85d7f"
       },
@@ -1291,9 +1264,8 @@
       "description": "Expert database guidance for the AWS database portfolio. Design schemas, execute queries, handle migrations, and choose the right database for your workload.",
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/agent-plugins.git",
-        "path": "plugins/databases-on-aws",
         "ref": "main",
         "sha": "097fe8ad56d8a1d5e2c81d7880adf145553cf244"
       },
@@ -1307,9 +1279,8 @@
       },
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/databricks/databricks-agent-skills.git",
-        "path": "plugins/databricks/claude",
         "ref": "main",
         "sha": "0fbf9ba4cdb2fd5a0efd952e8225acc1d5099809"
       },
@@ -1376,9 +1347,8 @@
       "description": "Agent skills for building on, analyzing, and managing Microsoft Dataverse — with Dataverse MCP, PAC CLI, and Python SDK.",
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/microsoft/Dataverse-skills.git",
-        "path": ".github/plugins/dataverse",
         "ref": "main",
         "sha": "ee929195a7d724c315e45f6dc3ebc4e59370fce2"
       },
@@ -1404,9 +1374,8 @@
       "description": "Deploy applications to AWS with architecture recommendations, cost estimates, and IaC deployment.",
       "category": "deployment",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/agent-plugins.git",
-        "path": "plugins/deploy-on-aws",
         "ref": "main",
         "sha": "efe040ab66ed7eb4bccc0a94133181da5bc57567"
       },
@@ -1420,9 +1389,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP.git",
-        "path": "plugins/claude",
         "ref": "main",
         "sha": "1eccc8b09cc09805202a1737fd20d605356c3671"
       },
@@ -1456,9 +1424,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/dropbox/dropbox-ai-plugins.git",
-        "path": "claude",
         "ref": "main",
         "sha": "4135e81caf8275b4c97caef244479e0dcb6fb823"
       },
@@ -1522,9 +1489,8 @@
       "description": "Official Expo skills for building, deploying, upgrading, and debugging React Native apps with Expo. Covers UI development with Expo Router, SwiftUI and Jetpack Compose components, Tailwind CSS setup, API routes, data fetching, CI/CD workflows, App Store and Play Store deployment, SDK upgrades, DOM components, and dev client distribution.",
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/expo/skills.git",
-        "path": "plugins/expo",
         "ref": "main",
         "sha": "39708666ce7014def1f8e34f3d8c93e8d3f588bb"
       },
@@ -1734,9 +1700,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/grafana/ai-marketplace.git",
-        "path": "plugins/grafana-assistant",
         "ref": "main",
         "sha": "a5c72f2d74c640e9675eb0249526447968535015"
       },
@@ -1750,9 +1715,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/grafana/ai-marketplace.git",
-        "path": "plugins/grafana-cloud-mcp",
         "ref": "main",
         "sha": "12be5634a492f73c189d466c5449d09b853ad7a4"
       },
@@ -1766,9 +1730,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/grafana/ai-marketplace.git",
-        "path": "plugins/grafana-mcp",
         "ref": "main",
         "sha": "a5c72f2d74c640e9675eb0249526447968535015"
       },
@@ -1783,9 +1746,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/greptileai/claude-plugin.git",
-        "path": "plugins/greptile",
         "ref": "greptile--v1.2.3",
         "sha": "6b725af2636072cab79e0a5426f6a960b0fd29ef"
       },
@@ -1813,9 +1775,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/honeycombio/agent-skill.git",
-        "path": "honeycomb",
         "ref": "main",
         "sha": "41214b7dfb97f262adabf295fa6f0fcad85bc0f6"
       },
@@ -1895,9 +1856,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/taosdata/agent-skills.git",
-        "path": "plugins/idmp-plugin",
         "ref": "main",
         "sha": "0b67242e2cd114ad9631c39aa20969fdd9780a11"
       },
@@ -1917,9 +1877,8 @@
       },
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/forcedotcom/informatica-claude-plugins.git",
-        "path": "informatica-for-claude-platform",
         "ref": "main",
         "sha": "554d02e0f7f2adafeaeeedbde04435b7bd310a47"
       },
@@ -2068,9 +2027,8 @@
       },
       "category": "learning",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/coursera/skills.git",
-        "path": "skills",
         "ref": "main",
         "sha": "ac28fd6ebf8584e3ee196159bd6d4514fa07de0f"
       },
@@ -2096,9 +2054,8 @@
       "description": "Attorney guidance and legal tools for business and personal needs. AI-powered document review identifies critical risks and important clauses, advises when to engage an attorney, and routes to LegalZoom's network when professional expertise is needed.",
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/legalzoom/claude-plugins.git",
-        "path": "plugins/legalzoom",
         "ref": "main",
         "sha": "f9fd8a0ca6e1421bc1aacb113a109663a7a6f6d8"
       },
@@ -2119,9 +2076,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/Shopify/liquid-skills.git",
-        "path": "plugins/liquid-lsp",
         "ref": "main",
         "sha": "ae3e4cc3f454923e388bbd841fd931f0c7bf5be4"
       },
@@ -2135,9 +2091,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/Shopify/liquid-skills.git",
-        "path": "plugins/liquid-skills",
         "ref": "main",
         "sha": "ae3e4cc3f454923e388bbd841fd931f0c7bf5be4"
       },
@@ -2151,9 +2106,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/pydantic/skills.git",
-        "path": "plugins/logfire",
         "ref": "main",
         "sha": "501b11a5b3f92b9c78bbe9bd76442df0ad68dadf"
       },
@@ -2167,9 +2121,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/LogRocket/logrocket-claude-plugin.git",
-        "path": "plugins/logrocket",
         "ref": "main",
         "sha": "2e44dbb47faf9bb54e3405a8ae2714e7c5ce9791"
       },
@@ -2298,9 +2251,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/modelcontextprotocol/ext-apps.git",
-        "path": "plugins/mcp-apps",
         "ref": "main",
         "sha": "352f6ced4d80772e92b4e7a311854481a8d65b04"
       },
@@ -2336,9 +2288,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/mercadopago/mercadopago-claude-marketplace.git",
-        "path": "plugins/mercadopago",
         "ref": "main",
         "sha": "c0d06959afc90b2f3d637c35eeb51c36f512c005"
       },
@@ -2377,9 +2328,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/startups.git",
-        "path": "migrate/plugins/migration-to-aws",
         "ref": "main",
         "sha": "dd7096bd634649bc89b6511d61cff16f58623284"
       },
@@ -2404,9 +2354,8 @@
       },
       "category": "design",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/miroapp/miro-ai.git",
-        "path": "claude-plugins/miro",
         "ref": "main",
         "sha": "c2494b24510d01ec3e50fad94a0c5fc3ca40e339"
       },
@@ -2448,9 +2397,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/mondaycom/mcp.git",
-        "path": "plugins/monday-crm",
         "ref": "master",
         "sha": "5eb0835e921de42ba603d7a8315ab4a2575a46b2"
       },
@@ -2461,9 +2409,8 @@
       "description": "Official Claude plugin for MongoDB (MCP Server + Skills). Connect to databases, explore data, manage collections, optimize queries, generate reliable code, implement best practices, develop advanced features, and more.",
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/mongodb/agent-skills.git",
-        "path": "plugins/mongodb",
         "ref": "main",
         "sha": "1e72df255e54e81eff078054c2cfb2b5d8c13503"
       },
@@ -2477,9 +2424,8 @@
       },
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/mongodb/agent-skills.git",
-        "path": "plugins/mongodb-atlas",
         "ref": "main",
         "sha": "1e72df255e54e81eff078054c2cfb2b5d8c13503"
       },
@@ -2490,9 +2436,8 @@
       "description": "Manage your Neon projects and databases with the neon-postgres agent skill and the Neon MCP Server.",
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/neondatabase/agent-skills.git",
-        "path": "plugins/neon-postgres",
         "ref": "main",
         "sha": "4a4266ac3da8cf29e3c995bad040ae4ac4476b28"
       },
@@ -2517,9 +2462,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/oracle/netsuite-suitecloud-sdk.git",
-        "path": "anthropic/netsuite-ai-companion",
         "ref": "ai-plugins-dist",
         "sha": "23793a10a9bb557c684c5cb8a97f926eb3463f12"
       },
@@ -2533,9 +2477,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/oracle/netsuite-suitecloud-sdk.git",
-        "path": "anthropic/netsuite-finance-analyst",
         "ref": "ai-plugins-dist",
         "sha": "23793a10a9bb557c684c5cb8a97f926eb3463f12"
       },
@@ -2549,9 +2492,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/oracle/netsuite-suitecloud-sdk.git",
-        "path": "anthropic/netsuite-suitecloud",
         "ref": "ai-plugins-dist",
         "sha": "23793a10a9bb557c684c5cb8a97f926eb3463f12"
       },
@@ -2600,9 +2542,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/Noibu/ai-plugin.git",
-        "path": "src",
         "ref": "main",
         "sha": "3ff530b2dac2efd6a070ea8318a9705cd5d2d40f"
       },
@@ -2627,9 +2568,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/NVIDIA/skills.git",
-        "path": "plugins/nvidia-skills",
         "ref": "main",
         "sha": "2455514388e984b7e5a78a30e928f39d1401f16b"
       },
@@ -2643,9 +2583,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/oracle-samples/oracle-aidp-samples.git",
-        "path": "ai/claude-code-plugins/oracle-ai-data-platform-workbench-databricks-migrator",
         "ref": "main",
         "sha": "a88bcf3a9f9acca94663a727de42d8535e869486"
       },
@@ -2659,9 +2598,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/oracle-samples/oracle-aidp-samples.git",
-        "path": "ai/claude-code-plugins/oracle-ai-data-platform-workbench-engineer-agent",
         "ref": "main",
         "sha": "13e7a9139b3b62172119c7fc1a63bf4a2eac919d"
       },
@@ -2675,9 +2613,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/oracle-samples/oracle-aidp-samples.git",
-        "path": "ai/claude-code-plugins/oracle-ai-data-platform-workbench-spark-connectors",
         "ref": "main",
         "sha": "da0ce42f3b71cc16ee8b3a3e1ed2420c7eb180ad"
       },
@@ -2705,9 +2642,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/growthxai/output.git",
-        "path": "coding_assistants/claude/plugins/outputai",
         "ref": "main",
         "sha": "69255d7fd577139a7828bd219637d067b86a42b1"
       },
@@ -2746,9 +2682,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
-        "path": "plugins/pendo-analytics",
         "ref": "main",
         "sha": "a08842848e416be803e99184130aefca6ec9afd3"
       },
@@ -2762,9 +2697,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
-        "path": "plugins/pendo-guides",
         "ref": "main",
         "sha": "a4699be3608ba134d8c7aa4b53e220cfde1c6aac"
       },
@@ -2778,9 +2712,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
-        "path": "plugins/pendo-orchestrate",
         "ref": "main",
         "sha": "a4699be3608ba134d8c7aa4b53e220cfde1c6aac"
       },
@@ -2939,9 +2872,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/preset-io/agent-skills.git",
-        "path": "plugins/preset-cli-skills",
         "ref": "master",
         "sha": "8387ac0f0538271c79a2e227c7ddec084e8a5da3"
       },
@@ -2973,9 +2905,8 @@
       "description": "Write accurate Pydantic AI code from the start. Up-to-date patterns, decision trees, and common gotchas for agents, tools, structured output, streaming, and multi-agent apps.",
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/pydantic/skills.git",
-        "path": "plugins/ai",
         "ref": "main",
         "sha": "501b11a5b3f92b9c78bbe9bd76442df0ad68dadf"
       },
@@ -3029,9 +2960,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/qodo-ai/qodo-skills.git",
-        "path": "packages/qodo",
         "ref": "main",
         "sha": "79019ff7a574383d7146502ec5ffe7f7437a55d6"
       },
@@ -3047,9 +2977,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/qodo-ai/qodo-skills.git",
-        "path": "packages/qodo-standards",
         "ref": "main",
         "sha": "79019ff7a574383d7146502ec5ffe7f7437a55d6"
       },
@@ -3088,9 +3017,8 @@
       "description": "Deploy and manage apps, databases, and infrastructure on Railway. Covers project setup, deploys, environment configuration, networking, troubleshooting, and monitoring.",
       "category": "deployment",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/railwayapp/railway-skills.git",
-        "path": "plugins/railway",
         "ref": "main",
         "sha": "950acebcef3445f3915ea0709876c3ba9c237a7f"
       },
@@ -3138,9 +3066,8 @@
       },
       "category": "database",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/redis/agent-skills.git",
-        "path": "plugins/redis-development",
         "ref": "main",
         "sha": "172fb9effa139cd7432ac29a9ee81c45943e5a28"
       },
@@ -3287,9 +3214,8 @@
       "description": "Build, train, and deploy AI models with deep AWS AI/ML expertise brought directly into your coding assistants, covering the surface area of Amazon SageMaker AI.",
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/awslabs/agent-plugins.git",
-        "path": "plugins/sagemaker-ai",
         "ref": "main",
         "sha": "bab56a3b9991aa0c6857b05198a61ba14a60bce4"
       },
@@ -3303,9 +3229,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/forcedotcom/sf-skills.git",
-        "path": "plugins/builder/salesforce-development",
         "ref": "main",
         "sha": "7e04d4744792ae2defb7f4da24fe85cbdf6f6e5a"
       },
@@ -3351,9 +3276,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/SAP/open-ux-tools.git",
-        "path": "packages/fiori-mcp-server",
         "ref": "main",
         "sha": "31c1263fb76e1737dcb0a6d163c967d8f8126ddd"
       },
@@ -3399,9 +3323,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/spotify/save-to-spotify.git",
-        "path": "plugin",
         "ref": "main",
         "sha": "9d05c8cd8c8559552f84e27fe30f46b7693ce69a"
       },
@@ -3439,9 +3362,8 @@
       "description": "Semgrep catches security vulnerabilities in real-time and guides Claude to write secure code from the start.",
       "category": "security",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/semgrep/mcp-marketplace.git",
-        "path": "plugin",
         "sha": "f97e1ce43533ffde2eae9af2a80f95a7250c365f"
       },
       "homepage": "https://github.com/semgrep/mcp-marketplace.git"
@@ -3465,9 +3387,8 @@
       },
       "category": "monitoring",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/getsentry/cli.git",
-        "path": "packages/cli/plugins/sentry-cli",
         "ref": "main",
         "sha": "936c2cdc2ac13978ca9a843b24a0583e9309af8e"
       },
@@ -3491,9 +3412,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/ServiceNow/sdk.git",
-        "path": "providers/claude/plugin",
         "ref": "master",
         "sha": "f3e0379242b29e0039e1625d637aa1c246acbe12"
       },
@@ -3518,9 +3438,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
-        "path": "plugins/setup-agent-analytics",
         "ref": "main",
         "sha": "a4699be3608ba134d8c7aa4b53e220cfde1c6aac"
       },
@@ -3534,9 +3453,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/pendo-io/claude-pendo-plugin.git",
-        "path": "plugins/setup-mcp-agent-analytics",
         "ref": "main",
         "sha": "a4699be3608ba134d8c7aa4b53e220cfde1c6aac"
       },
@@ -3550,9 +3468,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/goshippo/ai.git",
-        "path": "providers/claude/plugin",
         "ref": "main",
         "sha": "15cbb6364fbcfd465a134f5972da9179436d0787"
       },
@@ -3602,9 +3519,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/Snowflake-Labs/snowflake-ai-kit.git",
-        "path": "plugins/cortex-code",
         "ref": "main",
         "sha": "0c54225ea50b44c2ae07e1f378bf401e88b33c33"
       },
@@ -3679,9 +3595,8 @@
       },
       "category": "security",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/stackhawk/agent-skills.git",
-        "path": "plugins/hawkscan",
         "ref": "main",
         "sha": "66cac9baa5883a1007575faf1b22855a1124834a"
       },
@@ -3695,9 +3610,8 @@
       },
       "category": "security",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/stackhawk/agent-skills.git",
-        "path": "plugins/api",
         "ref": "main",
         "sha": "66cac9baa5883a1007575faf1b22855a1124834a"
       },
@@ -3722,9 +3636,8 @@
       "description": "Stripe development plugin for Claude",
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/stripe/ai.git",
-        "path": "providers/claude/plugin",
         "ref": "main",
         "sha": "da4991b0a0b9299d423ae2d5856e6d7e2b31b031"
       },
@@ -3805,9 +3718,8 @@
       },
       "category": "automation",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/SynthFlowAI/AnthropicPlugin.git",
-        "path": "plugins/synthflow",
         "ref": "main",
         "sha": "205871ee83508502d2c982ee1bb7e65a2a29190b"
       },
@@ -3924,9 +3836,8 @@
       },
       "category": "design",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/SAP/ui-theme-designer-plugins-for-coding-agents.git",
-        "path": "plugins/ui-theme-designer",
         "ref": "main",
         "sha": "04a0a217e129422f8a995c5a9dd31712e5a32f47"
       },
@@ -3942,9 +3853,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/UI5/plugins-coding-agents.git",
-        "path": "plugins/ui5",
         "ref": "main",
         "sha": "a99b882ce364ef4b9f52fb4054f5f410c1636563"
       },
@@ -3960,9 +3870,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/UI5/plugins-coding-agents.git",
-        "path": "plugins/ui5-modernization",
         "ref": "main",
         "sha": "2b8c4a944e39609214bce7aef3b05260985f0e91"
       },
@@ -3978,9 +3887,8 @@
       },
       "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/UI5/plugins-coding-agents.git",
-        "path": "plugins/ui5-typescript-conversion",
         "ref": "main",
         "sha": "2b8c4a944e39609214bce7aef3b05260985f0e91"
       },
@@ -4023,9 +3931,8 @@
       },
       "category": "deployment",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/val-town/plugins.git",
-        "path": "plugin",
         "ref": "main",
         "sha": "2d3ec654b6a7d93e209afb8f2e8848eddcb9f17b"
       },
@@ -4141,9 +4048,8 @@
       },
       "category": "security",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/workos/skills.git",
-        "path": "plugins/workos",
         "ref": "main",
         "sha": "6b7d596ae28fb0bf2ecc01a8737e4bdcc70f7ab8"
       },
@@ -4168,9 +4074,8 @@
       "description": "Connect 8,000+ apps to your AI workflow. Discover, enable, and execute Zapier actions directly from your client.",
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/zapier/zapier-mcp.git",
-        "path": "plugins/zapier",
         "ref": "main",
         "sha": "217d65a980f9b75536babf89ba64bf03ad95beea"
       },
@@ -4282,7 +4187,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/louisje/context-mode.git",
-        "sha": "7b88b769cb6ee90f9f10bdd6e68668f052c0c024"
+        "ref": "main"
       },
       "homepage": "https://github.com/louisje/context-mode"
     },
@@ -4296,7 +4201,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/DietrichGebert/ponytail.git",
-        "sha": "2ed6c52c9d7e5e56942508591085fd45dea277d3"
+        "ref": "main"
       },
       "homepage": "https://github.com/DietrichGebert/ponytail"
     },
@@ -4310,7 +4215,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ayghri/i-have-adhd.git",
-        "sha": "e7555fcaf612dfa1739dc86610ea926a906db614"
+        "ref": "main"
       },
       "homepage": "https://github.com/ayghri/i-have-adhd"
     },
@@ -4324,7 +4229,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/louisje/terminal-mcp.git",
-        "sha": "63b9936cc248461a56c3ebfdb86b3496eabd38e6"
+        "ref": "main"
       },
       "homepage": "https://github.com/louisje/terminal-mcp"
     },
@@ -4352,9 +4257,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/HubSpot/hubspot-mcp-plugins.git",
-        "path": "HubSpot-Sales",
         "ref": "main",
         "sha": "a0c59600fc1ddcf03ceca71aebf0c28aa55f49e3"
       },
